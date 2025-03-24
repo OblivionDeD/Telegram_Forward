@@ -15,7 +15,7 @@ Make sure you have Python 3.8+ installed, then install the required packages:
 ```sh
 pip install -r requirements.txt  
 ```
-3. Configure variables
+### 3. Configure variables
 Before running the scripts, set up your credentials in the files:
 ```
 user_session.py:
