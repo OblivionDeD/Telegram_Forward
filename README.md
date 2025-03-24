@@ -6,7 +6,7 @@ This project consists of two scripts:
 ## Installation
 ### 1. Clone the repository
 ```sh
-git clone https://github.com/USERNAME/REPO_NAME.git
+git clone https://github.com/OblivionDeD/Telegram_Forward.git
 cd REPO_NAME
 ```
 
