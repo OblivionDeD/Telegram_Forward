@@ -7,7 +7,7 @@ This project consists of two scripts:
 ### 1. Clone the repository
 ```sh
 git clone https://github.com/OblivionDeD/Telegram_Forward.git
-cd REPO_NAME
+cd Telegram_Forward
 ```
 
 ### 2. Install dependencies
