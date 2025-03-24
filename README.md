@@ -8,3 +8,8 @@ This project consists of two scripts:
 ```sh
 git clone https://github.com/USERNAME/REPO_NAME.git
 cd REPO_NAME
+
+
+2. Install dependencies
+Make sure you have Python 3.8+ installed, then install the required packages:
+pip install -r requirements.txt  
